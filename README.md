@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @enamul1214 having 8+ years experienced on web design & development field.
+- 👋 Hi, I’m Enamul Kabir having 8+ years experienced on wordpress, reactjs, vuejs, elementor, divi, shopify, webflow and many more.
 - 👀 I’m interested in full stack web development.
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on wordpress and web design & development.
